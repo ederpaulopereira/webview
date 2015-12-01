@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">webview</string>
+    <string name="title_activity_testa_web_view">testaWebView</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dicaurl">Digite a url</string>
+    <string name="abrir">Abrir URL</string>
+    <string name="abrircomcct">Abrir com custom tabs</string>
+</resources>
